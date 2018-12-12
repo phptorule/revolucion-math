@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="16.5353in" height="10.8621in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 16535 10862"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:5;stroke-linejoin:round}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_428809760128">
+   <line class="fil0 str0" x1="0" y1="2988" x2="0" y2= "10468" />
+   <path class="fil0 str0" d="M16535 10468c0,219 -175,393 -393,394l-15748 0c-218,-1 -393,-175 -394,-394"/>
+   <path class="fil0 str0" d="M8268 2594l3504 0c65,0 109,-53 109,-107 0,-442 -228,-668 -434,-861 -206,-194 -380,-356 -380,-722 0,-613 434,-904 1335,-904 889,0 1334,301 1334,904 0,366 -173,528 -380,722 -206,193 -434,419 -434,861 0,64 55,107 109,107l3100 0"/>
+   <path class="fil0 str0" d="M0 2988c1,-218 176,-393 394,-394l3111 0c65,0 108,-53 108,-107 0,-442 -228,-668 -434,-861 -206,-194 -380,-356 -380,-722 0,-613 434,-904 1335,-904 890,0 1334,301 1334,904 0,366 -173,528 -379,722 -206,193 -434,419 -434,861 0,64 54,107 108,107l3505 0"/>
+   <path class="fil0 str0" d="M16535 10468l0 -3115c0,-65 -54,-108 -108,-108 -445,0 -662,237 -857,441 -196,205 -358,377 -727,377 -608,0 -901,-430 -901,-1335 0,-904 282,-1335 890,-1335 369,0 531,173 727,377 195,205 412,442 857,442 65,0 108,-54 108,-108l0 -3116c0,-218 -175,-393 -393,-394"/>
+   <path class="fil0 str0" d="M16535 7353c0,-65 -54,-108 -108,-108 -445,0 -662,237 -857,441 -196,205 -358,377 -727,377 -608,0 -901,-430 -901,-1335 0,-904 282,-1335 890,-1335 369,0 531,173 727,377 195,205 412,442 857,442 65,0 108,-54 108,-108"/>
+  </g>
+ </g>
+</svg>

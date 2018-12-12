@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
+
+@font-face {
+    font-family: 'proximanova';
+    src: url('../fonts/Proxima-Nova-Semibold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'proximanova-regular';
+    src: url('../fonts/Proxima-Nova-Alt-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

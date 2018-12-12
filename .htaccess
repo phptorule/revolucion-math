@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^chocolate.da4.info$ [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.da4.info$
+RewriteCond %{REQUEST_URI} !dist/
+RewriteRule (.*) /dist/$1 [L]
+
